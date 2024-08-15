@@ -16,3 +16,6 @@ List -> It is a collection of related Items.
 
 Tables -> <table>; <tr> : table row; <th> : table heading; <td> : table data;
        -> <th> = <td><b>...</b></td>
+       -> border; cellspacing; cellpadding; colspan; rowspan; height; width
+
+Forms -> <form>; <input/>; <select>; <option>; <textarea>
