@@ -1,4 +1,4 @@
-HTML -> 
+HTML -> Hyper Text Markup Language. It is used for structring the webpages and website.
 
 
 Elementary Tags -> <h1>,<h2>,<h3>,<h4>,<h5>,<h6>;
