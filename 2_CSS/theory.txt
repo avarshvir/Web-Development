@@ -1,1 +1,1 @@
-CSS -> 
+CSS -> Castcading Style Sheet. It is used for styling, beautify the website.
