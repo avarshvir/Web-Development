@@ -14,4 +14,5 @@ List -> It is a collection of related Items.
      -> Nested List
      -> Description List -> <dl>; <dt>; <dd>
 
-Tables -> 
+Tables -> <table>; <tr> : table row; <th> : table heading; <td> : table data;
+       -> <th> = <td><b>...</b></td>
