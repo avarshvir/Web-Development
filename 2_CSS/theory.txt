@@ -1,1 +1,15 @@
 CSS -> Castcading Style Sheet. It is used for styling, beautify the website.
+
+Types:
+- Inline
+- Internal
+- External
+
+-----------------------------------------------------------------------------------
+- Inline:
+syntax:
+<h1 style = "property:value">content</h1>
+<p style = "propert:value; property:value;">content</p>
+example:
+<h1 style = "color:red">Hi</h1>
+<p style = "color:red; background-color:yellow;">How are you</p>
