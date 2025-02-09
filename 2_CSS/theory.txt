@@ -13,3 +13,24 @@ syntax:
 example:
 <h1 style = "color:red">Hi</h1>
 <p style = "color:red; background-color:yellow;">How are you</p>
+
+-----------------------------------------------------------------------------------
+- Internal:
+syntax:
+<head>
+    <style>
+        h1{
+            property:value;
+        }
+    </style>
+<head>
+
+-----------------------------------------------------------------------------------
+- External:
+syntax:
+file_name- style.css
+h1{
+    property:value;
+}
+
+___________________________________________________________________________________
