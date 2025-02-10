@@ -34,3 +34,9 @@ h1{
 }
 
 ___________________________________________________________________________________
+
+# Types of Selector:
+- Element/Type Selector
+- id Selector
+- class Selector
+- combination Selector
