@@ -40,3 +40,4 @@ ________________________________________________________________________________
 - id Selector
 - class Selector
 - combination Selector
+- child Selector
