@@ -41,3 +41,5 @@ ________________________________________________________________________________
 - class Selector
 - combination Selector
 - child Selector
+- descander Selector
+- grouping Selector
