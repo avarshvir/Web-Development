@@ -1,0 +1,18 @@
+div {
+    width: 400px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+.a{
+    text-align:end;
+}
+.b{
+    text-align: center;
+}
+.c{
+    text-align: left;
+}
+.d{
+    text-align: right;
+}
