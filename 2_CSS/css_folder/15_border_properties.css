@@ -1,0 +1,16 @@
+.a{
+    border-top: solid 1px blue;
+    background-color: antiquewhite;
+}
+.b{
+    border-bottom: dashed 2px green;
+    background-color: antiquewhite;
+}
+.c{
+    border-left: dotted 3px dodgerblue;
+    background-color: antiquewhite;
+}
+.d{
+    background-color: antiquewhite;
+    border-right: solid 4px salmon;
+}
