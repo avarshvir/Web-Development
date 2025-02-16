@@ -57,3 +57,5 @@ ________________________________________________________________________________
 
 #Inspect
 - 3 dot (dock side)
+- main menu (Element, Console, Sources, Network, Performance, Memory, Application, Security, Lighthouse)
+-- Element tag is related to CSS and HTML
