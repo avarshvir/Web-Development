@@ -28,6 +28,7 @@ Here's a brief overview of the directories included in this repository:
 ## Getting Started
 
 To get started with the materials in this repository:
+----
 
 1. Clone the repository to your local machine:
    ```bash
