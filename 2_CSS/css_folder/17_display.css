@@ -1,0 +1,38 @@
+.abc {
+    border: solid 1px red;
+    /*height: 80px;
+    width: 1000px;*/
+    margin: 10px;
+    padding: 20px;
+}
+.abca {
+    border: solid 1px black;
+    padding: 10px;
+    width: 2000px;  /*no effect*/
+}
+
+/*.xyz {
+    border: solid 1px red;
+    /*height: 80px;
+    width: 1000px;
+    display: block;
+    width:200px;
+}*/
+
+.xyzx {
+    border: solid 1px black;
+    display: block;
+    width: 200px;
+}
+
+.qweq {
+    border: solid 1px black;
+    display: inline-block;
+    width: 200px;
+}
+
+.mnom {
+    border: solid 1px black;
+    display: none;
+    width: 200px;
+}
