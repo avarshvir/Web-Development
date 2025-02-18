@@ -65,3 +65,9 @@ ________________________________________________________________________________
 #Display
 
 - block, inline, inline-block, none
+- block-> set height and width
+- inline-> set margin and padding
+- inline-block-> set height and width
+- none-> for hiding
+
+___________________________________________________________________________________
