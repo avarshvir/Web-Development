@@ -4,10 +4,4 @@
 - NoSQL
 ________________________________
 
--- MySQL
--- MongoDB
-
-_______________________________
-
-SQL Learning
-NoSQL Learning
+-- using MySQL in XAMPP
