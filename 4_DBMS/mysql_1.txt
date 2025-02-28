@@ -4,13 +4,16 @@
 
 - CREATE DATABASES database_name;
 
-// for creating multiple DATABASES;
+// for creating multiple DATABASES:
 - CREATE DATABASES db_name_1;
 - CREATE DATABASES db_name_2;
 - CREATE DATABASES db_name_3;
 - CREATE DATABASES db_name_4;
 
-// Selecting and USE DATABASES;
+// Selecting and USE DATABASES:
 - SELECT DATABASE ();
 - USE database_name;
 - SELECT DATABASE ();
+
+// drop or delete the DATABASES or DATABASE:
+- DROP DATABASE database_name;
