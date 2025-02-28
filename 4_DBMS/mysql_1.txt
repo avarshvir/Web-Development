@@ -1,3 +1,11 @@
 # SQL Queries:
 
 - SHOW DATABASES;     
+
+- CREATE DATABASES database_name;
+
+// for creating multiple DATABASES;
+- CREATE DATABASES db_name_1;
+- CREATE DATABASES db_name_2;
+- CREATE DATABASES db_name_3;
+- CREATE DATABASES db_name_4;
