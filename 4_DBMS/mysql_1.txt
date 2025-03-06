@@ -49,3 +49,31 @@ CREATE TABLE students (
     no_of_compartments INT NOT NULL DEFAULT 0,
     PRIMARY KEY(s_no)
     );
+
+// showing attribute in table:
+DESC table_name; 
+
+// altering a table:
+---> way to alter data in table: adding new attribute, deleting existing attribute, 
+modifying existing attribute, changing the name of attribute, renaming the table
+
+----> adding new attribute
+ALTER TABLE table_name ADD attribute_name data_type Constraints;
+example: ALTER TABLE students ADD semester VARCHAR(255) NOT NULL DEFAULT 1;
+
+----> deleting an attribute
+ALTER TABLE table_name DROP attribute_name;
+example: ALTER TABLE students DROP semester;
+
+---->modifying an attribute to change its Default value from 0 to 1
+ALTER TABLE table_name MODIFY attribute_name data_type Constraints DEFAULT 1;
+example: ALTER TABLE students MODIFY no_of_compartments INT NOT NULL DEFAULT 1;
+
+----> changing the name of attribute in table
+ALTER TABLE table_name CHANGE attribute_name new_attribute_name data_type Constraints;
+example: ALTER TABLE students CHANGE compartments compartment INT NOT NULL DEFAULT 0;
+
+----> renaming table name
+ALTER TABLE table_name RENAME TO new_table_name;
+example: ALTER TABLE students RENAME TO students_college;
+
