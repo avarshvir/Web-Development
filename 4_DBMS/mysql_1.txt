@@ -33,3 +33,19 @@
 // for showing tables in database:
 SHOW TABLES;
 
+// creating tables in database:
+CREATE TABLE table_name(
+    attribute_name data_type Constraints(optional),
+    attribute_name2 data_type2,
+);
+
+example:
+CREATE TABLE students (
+    s_no INT NOT NULL AUTO_INCREMENT,
+    name VARCHAR(255) NOT NULL,
+    reg_no VARCHAR(255) NOT NULL,
+    gender VARCHAR(255),
+    department VARCHAR(255) NOT NULL,
+    no_of_compartments INT NOT NULL DEFAULT 0,
+    PRIMARY KEY(s_no)
+    );
