@@ -1,5 +1,8 @@
 # SQL Queries:
 
+-------------------------------------------------------------------------
+## DATABASE QUERIES: 
+
 - SHOW DATABASES;     
 
 - CREATE DATABASES database_name;
@@ -17,3 +20,7 @@
 
 // drop or delete the DATABASES or DATABASE:
 - DROP DATABASE database_name;
+-----------------------------------------------------------------------
+
+-----------------------------------------------------------------------
+## TABLE QUERIES:
