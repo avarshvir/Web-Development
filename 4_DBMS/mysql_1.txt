@@ -30,3 +30,6 @@
 ---> Constraints: not null, unique key, primary key, foreign key
 ---> Default value
 
+// for showing tables in database:
+SHOW TABLES;
+
