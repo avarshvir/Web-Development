@@ -24,3 +24,9 @@
 
 -----------------------------------------------------------------------
 ## TABLE QUERIES:
+
+--> components associated with an attribute are Data types, Constraints, and Default value
+---> Data types: int, float, varchar, enum
+---> Constraints: not null, unique key, primary key, foreign key
+---> Default value
+
