@@ -1,1 +1,2 @@
 Hi, This is test 2
+Now I am typing in local repo.
