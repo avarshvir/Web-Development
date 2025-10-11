@@ -1,0 +1,6 @@
+F12 or right click on element and select inspect option.
+
+- Devtools overview: https://developer.chrome.com/docs/devtools/overview/
+- Open Chrome Dev Tool: https://developer.chrome.com/docs/devtools/open/
+- Get Started With Viewing And Changing The DOM: https://developer.chrome.com/docs/devtools/dom/
+- View and change CSS: https://developer.chrome.com/docs/devtools/css
