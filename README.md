@@ -33,5 +33,23 @@ To get started with the materials in this repository:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/avarshvir/Web-Development.git
+2. **Browse folders:** Each module (`1_HTML`, `2_CSS`, etc.) contains both hands-on practice and theory for self-guided learning.
+3. **Start with `0_Basics/`** if you're new, or jump directly to modules as needed for targeted study.
+
+## 🤝 Contribution Guidelines
+
+- **Open to PRs:** Feel free to contribute new exercises, improve documentation, or add new projects.
+- **Issue Reporting:** Use the Issues tab to report bugs, suggest enhancements, or request new topics.
+- **Project Structure:** Please follow the existing folder structure and naming conventions for consistency.
+- **Attribution:** Credit any third-party resources or code snippets in your submissions.
+
+## 🏆 Credits
+
+- Maintained by **@avarshvir**.
+- Inspired by open source learning, The Odin Project, and the global web developer community.
+
+## ⭐ Stars & Feedback
+
+If you find this repository useful, please star ⭐ it to support more open learning efforts and share feedback via Issues.
 
  
