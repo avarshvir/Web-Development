@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+    
+}
+
+.first-box {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border: 10px solid yellow;
+    margin: 20px;
+    /*box-sizing: border-box;*/ /* -> Setting box-sizing: border-box switches so that width/height include content, padding, and border. This makes sizing more predictable and is a best practice for most designs. */
+}
+
+.second-box {
+    background-color: skyblue;
+    border: 20px solid green;
+    padding: 5px;
+    margin: 30px;
+}
