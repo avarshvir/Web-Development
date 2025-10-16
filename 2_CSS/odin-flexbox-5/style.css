@@ -1,0 +1,12 @@
+.flex-box {
+    display: flex;
+    /*display: flex;*/
+}
+
+.flex-box div {
+    background-color: peachpuff;
+    border: 2px solid palegreen;
+    height: 100px;
+    /*flex: 1;*/
+    flex: 1;
+}
