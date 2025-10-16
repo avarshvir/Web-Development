@@ -1,0 +1,17 @@
+.flex-container {
+    margin: 20px;
+    border: 5px solid yellow;
+    text-align: center;
+    color: wheat;
+    font-size: 40px;
+}
+
+.home,
+.logout {
+    background-color: aqua;
+    flex: 1;
+}
+
+.search {
+    background-color: palevioletred;
+}
