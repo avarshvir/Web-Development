@@ -1,0 +1,17 @@
+.flex-vertical {
+  display: flex;
+  flex-direction: column;       /* Stack items vertically */
+  justify-content: center;      /* Center items vertically in the container */
+  align-items: center;          /* Center items horizontally */
+  background: #222;
+  height: 300px;                /* Set container height */
+  border-radius: 12px;
+}
+.flex-vertical div {
+  background: #4db6ac;
+  color: white;
+  margin: 15px;
+  padding: 18px 30px;
+  font-size: 18px;
+  border-radius: 8px;
+}
