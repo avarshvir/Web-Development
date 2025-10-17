@@ -1,0 +1,26 @@
+Flexbox visual cheatsheet: https://flexbox.malven.co/
+
+Q: How do you make flex items arrange themselves vertically instead of horizontally?
+A: flex-direction: column;
+
+Q: In a column flex-container, what does flex-basis refer to?
+A: The item's height.
+
+Q: In a row flex-container, what does flex-basis refer to?
+A: The item's width.
+
+Q: Why do the previous two questions have different answers?
+A: Because the main axis switches: width is the "long" side in a row, height is the "long" side in a column.
+
+Q/A: Why do boxes collapse sometimes?
+If you use flex: 1 (instead of 1 1 auto) and the direction is column, items might collapse.
+
+Why? Because flex: 1 sets flex-basis: 0, so their starting height is zero and only grows if the parent has a set height.
+
+Fixes:
+
+Use flex: 1 1 auto; so they start at their defined height/content.
+
+Give the container a set height.
+
+Or use only flex-grow: 1.
