@@ -46,7 +46,7 @@ To get started with the materials in this repository:
 ## 🏆 Credits
 
 - Maintained by **@avarshvir**.
-- Inspired by open source learning, The Odin Project, and the global web developer community.
+- Inspired by open source learning, Its ARC (Formely Project X), The Odin Project, and the global web developer community.
 
 ## ⭐ Stars & Feedback
 
