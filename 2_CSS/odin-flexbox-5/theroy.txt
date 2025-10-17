@@ -1,0 +1,26 @@
+Shorthand properties are CSS properties that let you set the values of multiple other CSS properties simultaneously. Using a shorthand property, you can write more concise (and often more readable) stylesheets, saving time and energy.
+
+Source: Shorthand properties on MDN: https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties
+
+flex: 1 equates to: flex-grow: 1, flex-shrink: 1, flex-basis: 0.
+
+Flex Grow and Shrink: https://www.theodinproject.com/lessons/foundations-growing-and-shrinking
+
+Shorthand       |  Expands To                      |  Result                            
+----------------+----------------------------------+------------------------------------
+flex: 1         |  1 1 0%                          |  Equal growth for all items        
+flex: 2         |  2 1 0%                          |  Double growth for this item       
+flex: auto      |  1 1 auto                        |  Grow/shrink from normal width     
+flex-shrink: 0  |  Stops this item from shrinking  |  Keeps minimum size (never shrinks)
+
+
+Q: What are the 3 values defined in the shorthand flex property (e.g. flex: 1 1 auto)?
+A: flex-grow, flex-shrink and flex-basis.
+
+Q: What are the 3 defined values for the flex shorthand flex:auto?
+A: flex: 1 1 auto;
+flex-grow: 1 → can grow to fill extra space
+
+flex-shrink: 1 → can shrink if needed
+
+flex-basis: auto → initial size derives from width/content set on the element
