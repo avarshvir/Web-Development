@@ -9,11 +9,14 @@ Here's a brief overview of the directories included in this repository:
 - **HTML/**: Contains HTML files and related resources. Explore the basics of structuring web pages and creating content.
 - **CSS/**: Contains CSS files and stylesheets. Learn about styling and layout techniques to enhance the appearance of web pages.
 - **Bootstrap/**: Includes files and examples for using Bootstrap, a popular front-end framework for building responsive and mobile-first websites.
-- **DBMS/**: Features materials related to Database Management Systems. Understand how to manage and interact with databases in web applications.
-- **PHP/**: Contains PHP scripts and examples. Discover server-side scripting and how to build dynamic web applications using PHP.
 - **JS/**: JavaScript files and examples are found here. Dive into client-side scripting and learn how to create interactive web elements.
 - **React/**: Explore the React directory for React components and applications. Get hands-on experience with one of the most popular JavaScript libraries for building user interfaces.
-- **API Integration/**: Contains examples and resources related to integrating APIs into web applications. Learn how to connect your applications to external services and handle data exchanges.
+- **DBMS/**: Features materials related to Database Management Systems. Understand how to manage and interact with databases in web applications.
+- **MongoDB/**: NoSQL, document modeling, CRUD operations, Connecting to Node.js/Express Project: Persistent data for your blog or task app.
+- **Express/**: REST APIs, routing, middleware, controllers, Connecting to MongoDB and Project: Build a full REST API (CRUD for users, posts, etc.)
+- **Postman/**: API testing, request creation, automation, Documenting and debugging endpoints, and Project: Test and document your API endpoints with Postman.
+- **API Integration/**: Contains examples and resources related to integrating APIs into web applications. Learn how to connect your applications to external services and handle data exchanges. Project: Weather or currency conversion app using third-party APIs.
+- **PHP/**: Contains PHP scripts and examples. Discover server-side scripting and how to build dynamic web applications using PHP. Project: Simple form handling or CRUD demo.
 - **Final Project/**: Includes the final project that integrates various technologies and skills learned throughout this repository. A comprehensive example of a web development project.
 - **AI in Web Development/**: Learn about integrating AI and machine learning into web applications. Explore how artificial intelligence can enhance web development.
 - **Security/**: Explore best practices and techniques for securing web applications. This directory includes resources on authentication, authorization, encryption, and protecting against common vulnerabilities.
