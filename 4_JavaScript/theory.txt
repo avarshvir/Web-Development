@@ -30,4 +30,88 @@ control multimedia, animate images, and pretty much everything else.
 -------------------------------------------------------------------------------------------------------
 
 Q: Name the eight data types in JavaScript.
-A: 
+A: Number, String, Boolean, Null, Undefined, Object, Symbol, BigInt
+
+Q: Which data type is NOT primitive?
+A: Object
+
+Q: What is the relationship between null and undefined?
+A: Both represent “no value”, but undefined usually means a variable was declared but not assigned, while null is an assigned absence of value (intentional empty value).
+
+Q: What is the difference between single, double, and backtick quotes for strings?
+A: All can make strings, but only backticks (`text`) allow embedding variables or expressions using ${...} and multi-line strings without escape characters.
+
+Q: What is the term for joining strings together?
+A: Concatenation
+
+Q: Which type of quote lets you embed variables/expressions in a string?
+A: Backtick quotes (template literals: `...`)
+
+Q: How do you embed variables/expressions in a string?
+A: Use a template literal and place the value inside ${...}:
+let name = "Odin";
+let str = `Hello, ${name}!`;
+// 'Hello, Odin!'
+
+8. How do you use escape characters in a string?
+
+Prefix the special character with \ (backslash):
+
+Example: 'It\'s cold.' or "He said \"hi\"."
+
+9. What is the difference between the slice and substring string methods?
+
+Both extract parts of a string, but slice lets you use negative indexes (counts from the end), while substring treats negative indexes as zero.
+
+10. What are the three logical operators, and what do they stand for?
+
+&& (AND)
+
+|| (OR)
+
+! (NOT)
+
+11. What are the comparison operators?
+
+==, ===, !=, !==, <, >, <=, >=
+
+12. What are truthy and falsy values?
+
+Any value used in a boolean context is either truthy (will be treated as true in an if/else) or falsy (treated as false).
+
+13. What are the falsy values in JavaScript?
+
+false, 0, -0, 0n (BigInt zero), "" (empty string), null, undefined, and NaN.
+
+14. What are conditionals?
+
+Statements that allow code to make choices based on whether a condition is true or false (e.g. if, else, switch).
+
+15. What is the syntax for an if/else conditional?
+
+js
+if (condition) {
+  // code if true
+} else {
+  // code if false
+}
+16. What is the syntax for a switch statement?
+
+js
+switch(expression) {
+  case value1:
+    // code
+    break;
+  case value2:
+    // code
+    break;
+  default:
+    // code
+}
+17. What is the syntax for a ternary operator?
+
+js
+condition ? valueIfTrue : valueIfFalse
+18. What is nesting?
+
+Putting one structure inside another—such as an if inside another if, or a loop inside a loop.
