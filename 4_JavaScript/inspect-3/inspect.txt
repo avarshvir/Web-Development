@@ -1,0 +1,8 @@
+chrome dev tools docs: https://developer.chrome.com/docs/devtools/
+view and change CSS: https://developer.chrome.com/docs/devtools/css/
+CSS feature reference: https://developer.chrome.com/docs/devtools/css/reference/
+DOM: https://developer.chrome.com/docs/devtools/dom/
+simulate mobile: https://developer.chrome.com/docs/devtools/device-mode/
+Debug JS: https://developer.chrome.com/docs/devtools/javascript/
+pause your with breakpoints: https://developer.chrome.com/docs/devtools/javascript/breakpoints/
+chrome devtools console overview: https://developer.chrome.com/docs/devtools/console/
