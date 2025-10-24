@@ -1,0 +1,16 @@
+Problem solving is writing an original program that performs a particular 
+set of tasks and meets all stated constraints.
+
+- Understand the Problem
+- Plan
+- Pseudocode
+- Divide and Conquer
+- Solving Fizz Buzz
+
+
+
+
+------------------------------------------------
+Links:
+- Problem Solving: https://www.theodinproject.com/lessons/foundations-problem-solving
+- Fizz buzz Wiki: https://en.wikipedia.org/wiki/Fizz_buzz
