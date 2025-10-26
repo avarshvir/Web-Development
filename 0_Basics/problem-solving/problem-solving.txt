@@ -10,6 +10,7 @@ set of tasks and meets all stated constraints.
 What Is Pseudocode?
 Pseudocode in data science or web development is a technique used to describe the distinct steps 
 of an algorithm in a way that’s easy for anyone with basic programming knowledge to understand.
+(always written in uppercase): SEQUENCE, CASE, WHILE, REPEAT-UNTIL, FOR, and IF-THEN-ELSE.
 
 
 
