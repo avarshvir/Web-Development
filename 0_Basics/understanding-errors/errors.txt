@@ -1,0 +1,22 @@
+The anatomy of an error:
+An error is a type of object built into the JS language, consisting of a name/type and a message. 
+Errors contain crucial information that can assist you in locating the code responsible for the error, 
+determining why you have this error, and resolving the error.
+
+- Reference Error:
+A ReferenceError is thrown when one refers to a variable that is not declared and/or initialized 
+within the current scope.
+
+Another important part of an error is the stack trace. This helps you understand when the error was 
+thrown in your application, and what functions were called that led up to the error.
+
+Common types of errors:
+- Syntax error--A syntax error occurs when the code you are trying to run is not written correctly.
+- Reference error--We covered reference errors in the first example in this lesson, but it’s important 
+to remember that these arise because whatever variable you are trying to reference does not exist 
+(within the current scope) - or it has been spelled incorrectly!
+- Type error--A TypeError may be thrown when: an operand or argument passed to a function is incompatible with the type expected by that operator or function;
+or when attempting to modify a value that cannot be changed;
+or when attempting to use a value in an inappropriate way.
+
+Detailed practical in JS chapter :)
