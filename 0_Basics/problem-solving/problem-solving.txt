@@ -7,6 +7,9 @@ set of tasks and meets all stated constraints.
 - Divide and Conquer
 - Solving Fizz Buzz
 
+What Is Pseudocode?
+Pseudocode in data science or web development is a technique used to describe the distinct steps 
+of an algorithm in a way that’s easy for anyone with basic programming knowledge to understand.
 
 
 
