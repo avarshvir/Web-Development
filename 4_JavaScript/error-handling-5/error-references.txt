@@ -1,1 +1,3 @@
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors
+
+window console: https://www.w3schools.com/jsref/obj_console.asp
