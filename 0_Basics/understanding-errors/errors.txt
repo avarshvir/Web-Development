@@ -19,4 +19,9 @@ to remember that these arise because whatever variable you are trying to referen
 or when attempting to modify a value that cannot be changed;
 or when attempting to use a value in an inappropriate way.
 
+- Logic errors--These are errors where the syntax is actually correct but the code is not what you 
+intended it to be, meaning that program runs successfully but gives incorrect results. 
+These are often harder to fix than syntax errors, as there usually isn't an error message to direct 
+you to the source of the error.
+
 Detailed practical in JS chapter :)
