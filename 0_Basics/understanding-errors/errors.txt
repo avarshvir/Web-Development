@@ -24,4 +24,6 @@ intended it to be, meaning that program runs successfully but gives incorrect re
 These are often harder to fix than syntax errors, as there usually isn't an error message to direct 
 you to the source of the error.
 
+- Errors list: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors
+
 Detailed practical in JS chapter :)
